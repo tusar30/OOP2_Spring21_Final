@@ -1,0 +1,7 @@
+E:\Spring21_OOP2\StudentCourseAssociation\bin\Debug\StudentCourseAssociation.exe.config
+E:\Spring21_OOP2\StudentCourseAssociation\bin\Debug\StudentCourseAssociation.exe
+E:\Spring21_OOP2\StudentCourseAssociation\bin\Debug\StudentCourseAssociation.pdb
+E:\Spring21_OOP2\StudentCourseAssociation\obj\Debug\StudentCourseAssociation.csprojAssemblyReference.cache
+E:\Spring21_OOP2\StudentCourseAssociation\obj\Debug\StudentCourseAssociation.csproj.CoreCompileInputs.cache
+E:\Spring21_OOP2\StudentCourseAssociation\obj\Debug\StudentCourseAssociation.exe
+E:\Spring21_OOP2\StudentCourseAssociation\obj\Debug\StudentCourseAssociation.pdb
